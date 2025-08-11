@@ -8,7 +8,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "2B5mFTyR#Kvwhzq58GcA23OD3Ga2V6tFpK2kx6OCHCRTw07DWQkQ", // Add your session id
 PREFIX: process.env.PREFIX || ".",
 MODE: process.env.MODE || "public",  //public | private | inbox | group
-OWNER_NUMBER: process.env.OWNER_NUMBER || "94702781273",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "94703781273",
 DEV: process.env.DEV || "94703781273",
 LANG: process.env.LANG || "EN", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
@@ -19,7 +19,7 @@ AUTO_BIO: process.env.AUTO_BIO || "true",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",    
-AUTO_REACT: process.env.AUTO_REACT || "false",
+AUTO_REACT: process.env.AUTO_REACT || "true",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
